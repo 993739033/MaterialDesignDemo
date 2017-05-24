@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="mytitle">
+        <item >RecViewVertical</item>
+        <item>RecViewHorizontal</item>
+        <item>RecGridVertical</item>
+        <item>RecGridHorizontal</item>
+    </string-array>
+</resources>
